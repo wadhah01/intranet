@@ -1,2 +1,2 @@
 # intranet
-frontend done using react(ts) for intranet platefrom managing teams,supervisors and employees
+frontend built using react(ts) for intranet platefrom managing teams,supervisors and employees
